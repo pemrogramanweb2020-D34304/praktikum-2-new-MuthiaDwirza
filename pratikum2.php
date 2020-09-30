@@ -47,10 +47,10 @@ $n=$u;
 if($y){
 
 echo "<ul>";
-echo "<li>Nama              : ".$n["nama"]."</li>";
-echo "<li>Nik               : ".$n["nik"]."</li>";
-echo "<li>Kelamin           : ".$n["jenis_kelamin"]."</li>";
-echo "<li>Tanggal Lahir     : ".$n["tgl_lahir"]."</li>";
+echo "<li>Nama                      : ".$n["nama"]."</li>";
+echo "<li>Nik                       : ".$n["nik"]."</li>";
+echo "<li>Jenis Kelamin             : ".$n["jenis_kelamin"]."</li>";
+echo "<li>Tanggal Lahir             : ".$n["tgl_lahir"]."</li>";
 echo "</ul>";
 }
 }
